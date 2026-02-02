@@ -1,0 +1,7 @@
+{
+  "name": "Copy of C - AXION AI plus",
+  "description": "A high-performance automated trading interface featuring glassmorphic design, real-time analytics, and Citron-Green accents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
